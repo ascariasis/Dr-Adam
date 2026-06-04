@@ -15,10 +15,15 @@ I bridge the gap between clinical medicine and data — combining deep medical i
 ----
 🔧 What I Build
 Tool / Platform  Usage
+
 🟡 Power BI End-to-end dashboard development & storytelling
+
 🔵 Azure DatabricksData transformation & lakehouse analytics
+
 🗄️ SQLComplex queries, aggregations, data modelling
+
 🔄 Power Query (M)ETL pipelines within Power BI
+
 📊 Excel Rapid prototyping & ad-hoc analysis
 
 ---
