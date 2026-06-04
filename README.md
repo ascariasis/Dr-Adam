@@ -2,18 +2,15 @@
 Where clinical expertise meets data engineering — building intelligence that drives real healthcare decisions.
 
 ---
-
-Hi, I'm Dr Adam 👋
-
 Turning complex healthcare data into decisions that matter.
 
-I'm a Medical Doctor turned Healthcare Analytics & AI Leader with 9+ years of progressive experience across Medical, Life, and A&H insurance. 
+I'm a Medical Doctor turned Insurance Operations, now Healthcare Analytics & AI Leader with progressive experience across Medical, Life, and A&H insurance since 2017 (9+ years)
 
-Currently serving as Medical Advisory and Operation Support Manager at Prudential BSN Takaful, reporting directly to the COO — leading AI transformation, claims analytics, and regional cost optimisation across SEA markets.
+Currently serving as Medical Advisory and Operation Support Manager at Prudential BSN Takaful, reporting directly to the COO and head of NBUW, leading AI transformation, claims and operation analytics.
 
-Appointed AI Champion for Malaysian Prudential LBU, I've delivered enterprise-wide digital transformation including proprietary AI Agents for underwriting and analytics, Power BI dashboards used by C-suite and EXCOs, and automation initiatives resulting in RM 1M+ cost savings and a 60% reduction in claims TAT.
+Appointed AI Champion for Malaysian Prudential LBU, I've delivered enterprise-wide digital transformation including proprietary AI Agents for underwriting and analytics, Power BI dashboards used daily by assessors, managers, C-suite and EXCOs.
 
-I bridge the gap between clinical medicine and data — combining deep A&H expertise (Critical Illness, Medical, PA, Disability) with hands-on skills in SQL, Python, Power BI, and Azure Databricks to build tools that actually get used.
+I bridge the gap between clinical medicine and data — combining deep medical insurance expertise (Critical Illness, Medical, PA, Disability) with hands-on skills in SQL, Python, Power BI, and Azure Databricks to build tools that actually get used.
 
 ----
 🔧 What I Build
