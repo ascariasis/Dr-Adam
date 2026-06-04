@@ -44,15 +44,16 @@ Deep-dive analytics on paid claims — cost drivers, diagnosis trends, provider 
 ---
 
 🩺 Domain Expertise
-Healthcare Payer Analytics    Claims Operations & Monitoring
-Underwriting Support          Medical Data Governance  
-Health BI Roadmap Delivery    Azure Databricks / SQL Engineering
+> Healthcare Payer Analytics
+> Claims Operations & Monitoring
+> Underwriting Support
+> Medical Data Governance
+> Health BI Roadmap Delivery
 
 📈 Currently Exploring
 
-AI-assisted SQL generation & prompt engineering for analytics
-Healthcare data standards & enterprise datamart design
-Advanced DAX & Power BI performance optimisation
+> AI-assisted SQL generation & prompt engineering for analytics
+> Advanced DAX & Power BI performance optimisation
 
 ---
 📫 Let's Connect
