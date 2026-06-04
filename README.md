@@ -17,17 +17,14 @@ I bridge the gap between clinical medicine and data — combining deep medical i
 Tool / Platform  Usage
 
 🟡 Power BI End-to-end dashboard development & storytelling
-
 🔵 Azure DatabricksData transformation & lakehouse analytics
-
 🗄️ SQLComplex queries, aggregations, data modelling
-
 🔄 Power Query (M)ETL pipelines within Power BI
-
 📊 Excel Rapid prototyping & ad-hoc analysis
 
 ---
 📂 Featured Projects
+
 🏥 Claims Performance Dashboard
 
 Real-time claims monitoring for operational teams — tracking turnaround times, approval/decline rates, and trending analysis across the full claims lifecycle.
