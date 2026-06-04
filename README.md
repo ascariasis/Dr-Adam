@@ -1,5 +1,5 @@
 # Dr-Adam
-Welcome to my data analytics repository! This space serves as a central hub for my data science, statistical analysis, and business intelligence projects. I focus on transforming raw, complex datasets into actionable insights through data cleaning,  and compelling storytelling.
+Where clinical expertise meets data engineering — building intelligence that drives real healthcare decisions.
 
 ---
 
@@ -42,6 +42,7 @@ Automated aggregation of member medical histories to support claims and underwri
 
 Deep-dive analytics on paid claims — cost drivers, diagnosis trends, provider patterns, and utilisation insights.
 
+---
 
 🩺 Domain Expertise
 Healthcare Payer Analytics    Claims Operations & Monitoring
@@ -54,7 +55,7 @@ AI-assisted SQL generation & prompt engineering for analytics
 Healthcare data standards & enterprise datamart design
 Advanced DAX & Power BI performance optimisation
 
-
+---
 📫 Let's Connect
 
 💼 LinkedIn :https://www.linkedin.com/in/wan-muhammad-adam-966552151/
