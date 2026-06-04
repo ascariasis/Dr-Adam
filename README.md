@@ -1,5 +1,5 @@
 # Dr-Adam
-Where clinical expertise meets data engineering — building intelligence that drives real decisions.
+Where insurance + clinical expertise meets data engineering — building intelligence that drives real decisions.
 
 ---
 Turning complex healthcare data into decisions that matter.
