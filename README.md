@@ -58,4 +58,5 @@ Advanced DAX & Power BI performance optimisation
 📫 Let's Connect
 
 💼 LinkedIn :https://www.linkedin.com/in/wan-muhammad-adam-966552151/
+
 📧 adam.muhd@ymail.com
